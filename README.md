@@ -18,7 +18,7 @@ Environment: Zoom
 - Light-speed overview of Python, GitHub, Jupyter notebook
 
 # Full syllabus (keywords)
-ntroduction to machine learning, history...
+Introduction to machine learning, history...
 Principles of machine learning
 Classification vs  regression
 Supervised, unsupervised machine learning
